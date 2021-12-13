@@ -1,0 +1,30 @@
+{
+  "name": "git-1337",
+  "description": "Customize your git commit hashes (to an extent)",
+  "keywords": [
+    "custom",
+    "git",
+    "commit",
+    "hash",
+    "1337",
+    "leet",
+    "1ee7"
+  ],
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": {
+    "name": "Daniel Ethridge",
+    "url": "https://git.io/de"
+  },
+  "homepage": "https://github.com/wlib/git-1337",
+  "bugs": "https://github.com/wlib/git-1337/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlib/git-1337.git"
+  },
+  "type": "module",
+  "main": "./index.mjs",
+  "bin": {
+    "git-1337": "./git-1337.mjs"
+  }
+}
